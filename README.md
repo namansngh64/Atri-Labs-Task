@@ -1,5 +1,5 @@
 # Atri-Labs-Task
-I am working on windows so I had to use env and shell(or only shell works) to use the git bash installed in my computer to run commands like ls (dir in windows) etc.
+I am working on windows so I had to use env and shell(or only shell works) to use the git bash installed in my computer to run commands like ls (dir in windows) etc. SO if you are using linux you dont have to use the env and shell params in exec!
 
 It took me 3-4 whole days to read through documentations, finding every possible thing as this was my first time making a shell script type using node.js
 
